@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "tgreoe",
+    "slug": "snack-1ec3dd2d-4ed4-4fbe-8cf0-221160d2d6e6",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true,
+      "package": "com.sajad2007.tgreoe"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
